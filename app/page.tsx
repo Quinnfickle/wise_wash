@@ -33,7 +33,7 @@ export default function Home() {
         <form className="contact-form">
           <input type="text" placeholder="Your Name" />
           <input type="email" placeholder="Your Email" />
-          <textarea placeholder="Your Message" rows="5"></textarea>
+          <textarea placeholder="Your Message" rows={5}></textarea>
           <button type="submit">Submit</button>
         </form>
       </section>
