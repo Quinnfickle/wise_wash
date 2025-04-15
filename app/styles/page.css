@@ -1,0 +1,19 @@
+/* app/styles/page.css */
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #f4a261;
+    padding: 10px 20px;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #e76f51;
+  }
+  
